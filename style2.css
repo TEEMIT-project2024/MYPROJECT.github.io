@@ -1,0 +1,19 @@
+body{
+    background-image: url("3087-3.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+
+}
+.lab2{
+    padding: 20px;
+    margin: 200px 1120px;
+    width: 500px;
+    color: white;
+    font-size: medium;
+}
+#FIRST, #LAST, #AD, #E, #C{
+    font-size: 20px;
+}
+#A{
+    font-size: 30px;
+}

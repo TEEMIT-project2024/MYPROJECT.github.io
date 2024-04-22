@@ -1,0 +1,20 @@
+body{
+    background-image: url("4365-11.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+
+}
+.lab2{
+    padding: 20px;
+    margin: 90px 200px;
+    width: 400px;
+    color: black; 
+    font-size: medium;
+    background-color: rgb(220, 240, 245);
+}
+#FIRST, #LAST, #AD, #E, #C{
+    font-size: 20px;
+}
+#A{
+    font-size: 30px;
+}
